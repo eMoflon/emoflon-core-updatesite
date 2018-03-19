@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.moflon.core.feature_1.0.0.201803161951.jar" id="org.moflon.core.feature" version="1.0.0.201803161951">
+   <feature url="features/org.moflon.core.feature_1.0.0.201803191155.jar" id="org.moflon.core.feature" version="1.0.0.201803191155">
       <category name="org.moflon.core.category"/>
    </feature>
    <category-def name="org.moflon.core.category" label="eMoflon Core">
