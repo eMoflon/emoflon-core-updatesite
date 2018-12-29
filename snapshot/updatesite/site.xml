@@ -6,7 +6,7 @@ https://github.com/eMoflon/emoflon-core-updatesite/ .
 For further information on eMoflon::Core, see
 https://emoflon.org/ .
    </description>
-   <feature url="features/org.moflon.core.feature_1.4.0.201812241757.jar" id="org.moflon.core.feature" version="1.4.0.201812241757">
+   <feature url="features/org.moflon.core.feature_1.4.0.201812291352.jar" id="org.moflon.core.feature" version="1.4.0.201812291352">
       <category name="org.moflon.core.category"/>
    </feature>
    <category-def name="org.moflon.core.category" label="eMoflon::Core">
