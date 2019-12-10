@@ -5,8 +5,6 @@
     version='1.0.0'>
   <children>
     <child location='stable/updatesite'/>
-    <child location='http://gervarro.org/external/'/>
-    <child location='http://gervarro.org/eclipse-utils/'/>
     <child location='https://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases/'/>
     <child location='https://hallvard.github.io/plantuml/'/>
     <child location='https://download.eclipse.org/emfatic/update'/>
